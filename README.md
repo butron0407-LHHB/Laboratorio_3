@@ -1,4 +1,4 @@
-## Requisitos previos
+pwd## Requisitos previos
 
 Editor de código (ej. VS Code).
 
